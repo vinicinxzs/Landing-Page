@@ -34,6 +34,14 @@ p { font-size: 1.15rem; color: var(--gray); margin-bottom: 2rem; }
     font-weight: bold;
 }
 
+.img-mockup {
+    width: 100%;
+    max-width: 600px; /* Ou o tamanho que preferires */
+    height: auto;
+    border-radius: 12px;
+    box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+}
+
 /* BUTTONS */
 .btn-primary {
     background: var(--primary);
